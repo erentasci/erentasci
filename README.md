@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :sparkles: Javascript enthusiast, pixel-perfect obsessed, self-taught developer ✨
 - 🔭 I’m currently working on Tailwind CSS, React.js
-- :computer: I'm currently learning React.js, Redux, Redux-Toolkit.
+- :computer: I'm currently learning Redux, Redux-Toolkit.
 - 📫 How to reach me: erent4sci@gmail.com 
 - :zap: Medium: https://medium.com/@erentasci
 - :mag: Linkedin: https://www.linkedin.com/in/erentasci/
