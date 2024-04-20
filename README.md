@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey 👋, I'm Eren! |  Junior Frontend Developer :dizzy:
+# Hey 👋, I'm Eren! | Frontend Developer :dizzy:
 
 ### About Me
 
