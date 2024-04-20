@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- :sparkles: Javascript enthusiast, pixel-perfect obsessed, self-taught developer ✨
+- :sparkles: Javascript enthusiast and pixel-perfect obsessed developer ✨
 - 📫 How to reach me: erent4sci@gmail.com 
 - :zap: Medium: https://medium.com/@erentasci
 - :mag: Linkedin: https://www.linkedin.com/in/erentasci/
