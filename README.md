@@ -1,7 +1,10 @@
 # 👋 Hello I'm Eren 
 
-I'm a **Frontend & Mobile Developer** passionate about building **scalable** and **user-friendly interfaces** using **TypeScript**, **React**, **Next.js**, and **React Native**. I focus on **pixel-perfect implementation**, follow **Atomic Design principles**, and create consistent, responsive UIs across both web and mobile platforms.
-I'm always looking for new challenges and opportunities to **learn**, **collaborate**, and grow as a developer.
+I'm a **Frontend & Mobile Developer** passionate about building **scalable** and **user-friendly interfaces** using **TypeScript**, **React**, **Next.js**, and **React Native**. I focus on **pixel-perfect implementation**, follow **Atomic Design principles**, and create **consistent, responsive UIs** across both web and mobile platforms.
+
+I thrive in **collaborative environments**, enjoy contributing to **team-driven projects**, and continuously seek to **share knowledge** and **learn from others**. As a developer who **quickly adapts** to new technologies and workflows, I'm always eager to face **new challenges** and grow both personally and professionally.
+
+Let's connect and build something great together 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=erentasci&style=flat-square&color=brightgreen)
 ---
